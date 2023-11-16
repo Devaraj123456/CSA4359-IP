@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        article {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Travel Blog</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Destinations</a>
+        <a href="#">Tips</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <section>
+        <article>
+            <h2>Exploring a Tropical Paradise</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel urna sed urna consectetur tincidunt.</p>
+        </article>
+
+        <article>
+            <h2>A Cultural Adventure</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel urna sed urna consectetur tincidunt.</p>
+        </article>
+    </section>
+
+    <footer>
+        &copy; 2023 Travel Blog. All rights reserved.
+    </footer>
+
+</body>
+</html
